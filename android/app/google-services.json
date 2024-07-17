@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "988010136983",
+    "firebase_url": "https://bimbingan-skripsi-f68a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bimbingan-skripsi-f68a0",
+    "storage_bucket": "bimbingan-skripsi-f68a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988010136983:android:d96e7847e6ec912f9e30d2",
+        "android_client_info": {
+          "package_name": "com.example.bimbing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKKxo4k-FjNBUUqlVMjQe5dhZWEO81Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988010136983:android:c6e1ca083f0a3bdc9e30d2",
+        "android_client_info": {
+          "package_name": "com.example.bimbingan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKKxo4k-FjNBUUqlVMjQe5dhZWEO81Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
